@@ -3,9 +3,7 @@
     margin: 0;
     padding: 0;
 }
-header{
-    border-bottom: 2px solid black;
-}
+
 /* -----HEADER---------
 Estilos para el Header y poner todo en una fila  y un espacio entre las tres partes*/
 header .nav-bar{
